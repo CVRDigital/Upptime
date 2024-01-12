@@ -23,6 +23,8 @@ sites:
     url: https://www.ind.com
   - name: Allison Transmission
     url: https://allisontransmission.com
+  - name: National Bank of Indianapolis
+    url: https://www.nbofi.com
     
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
