@@ -1,17 +1,29 @@
 # Change these first
-owner: upptime # Your GitHub organization or username, where this repository lives
-repo: upptime # The name of this repository
+owner: CVRDigital
+repo: Upptime
 
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
-
+  - name: Spot Inc.
+    url: https://spotinc.com
+  - name: CVR
+    url: https://www.cvrindy.com
+  - name: JGA Counsel
+    url: https://www.jgacounsel.com
+  - name: Reach For Youth
+    url: https://www.reachforyouth.org
+  - name: Shiel Sexton
+    url: https://www.shielsexton.com
+  - name: CIO Center
+    url: https://ciocenter.com
+  - name: Harney & Sons
+    url: https://www.harney.com
+  - name: Indy Airport
+    url: https://www.ind.com
+  - name: Envita Solutions
+    url: https://www.ind.com
+  - name: Allison Transmission
+    url: https://allisontransmission.com
+    
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
