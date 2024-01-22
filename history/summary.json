@@ -22,10 +22,10 @@
     "url": "https://www.cvrindy.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.cvrindy.com.ico",
     "slug": "cvr",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 417,
@@ -33,7 +33,9 @@
     "timeWeek": 415,
     "timeMonth": 417,
     "timeYear": 417,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-01-22": 1
+    }
   },
   {
     "name": "JGA Counsel",
@@ -58,9 +60,9 @@
     "url": "https://www.reachforyouth.org",
     "icon": "https://icons.duckduckgo.com/ip3/www.reachforyouth.org.ico",
     "slug": "reach-for-youth",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -69,7 +71,9 @@
     "timeWeek": 344,
     "timeMonth": 387,
     "timeYear": 387,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-01-22": 0
+    }
   },
   {
     "name": "Shiel Sexton",
@@ -142,7 +146,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-01-22": 24,
+      "2024-01-22": 83,
       "2024-01-21": 1440,
       "2024-01-20": 1440,
       "2024-01-19": 1440,
@@ -172,7 +176,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-01-22": 24,
+      "2024-01-22": 83,
       "2024-01-21": 1440,
       "2024-01-20": 1440,
       "2024-01-19": 1440,
