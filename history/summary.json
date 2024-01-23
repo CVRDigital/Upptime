@@ -100,19 +100,19 @@
     "url": "https://ciocenter.com",
     "icon": "https://icons.duckduckgo.com/ip3/ciocenter.com.ico",
     "slug": "cio-center",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 239,
-    "timeDay": 307,
-    "timeWeek": 236,
-    "timeMonth": 239,
-    "timeYear": 239,
+    "status": "up",
+    "uptime": "99.93%",
+    "uptimeDay": "99.23%",
+    "uptimeWeek": "99.89%",
+    "uptimeMonth": "99.93%",
+    "uptimeYear": "99.93%",
+    "time": 275,
+    "timeDay": 526,
+    "timeWeek": 300,
+    "timeMonth": 275,
+    "timeYear": 275,
     "dailyMinutesDown": {
-      "2024-01-23": 0
+      "2024-01-23": 11
     }
   },
   {
@@ -150,7 +150,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-01-23": 722,
+      "2024-01-23": 733,
       "2024-01-22": 1440,
       "2024-01-21": 1440,
       "2024-01-20": 1440,
@@ -181,7 +181,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-01-23": 722,
+      "2024-01-23": 733,
       "2024-01-22": 1440,
       "2024-01-21": 1440,
       "2024-01-20": 1440,
