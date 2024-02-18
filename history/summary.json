@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.97%",
-    "time": 342,
-    "timeDay": 418,
-    "timeWeek": 369,
-    "timeMonth": 351,
-    "timeYear": 342,
+    "time": 341,
+    "timeDay": 265,
+    "timeWeek": 376,
+    "timeMonth": 345,
+    "timeYear": 341,
     "dailyMinutesDown": {
       "2024-01-22": 16
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "99.65%",
     "uptimeMonth": "99.86%",
     "uptimeYear": "99.88%",
-    "time": 483,
-    "timeDay": 416,
-    "timeWeek": 615,
-    "timeMonth": 494,
-    "timeYear": 483,
+    "time": 482,
+    "timeDay": 432,
+    "timeWeek": 598,
+    "timeMonth": 492,
+    "timeYear": 482,
     "dailyMinutesDown": {
       "2024-02-14": 35,
       "2024-01-22": 26
@@ -51,11 +51,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.97%",
-    "time": 2976,
-    "timeDay": 1064,
-    "timeWeek": 1176,
-    "timeMonth": 3346,
-    "timeYear": 2976,
+    "time": 2938,
+    "timeDay": 1287,
+    "timeWeek": 1184,
+    "timeMonth": 3314,
+    "timeYear": 2938,
     "dailyMinutesDown": {
       "2024-02-05": 16
     }
@@ -66,16 +66,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.reachforyouth.org.ico",
     "slug": "reach-for-youth",
     "status": "up",
-    "uptime": "99.91%",
+    "uptime": "99.92%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.81%",
     "uptimeMonth": "99.90%",
-    "uptimeYear": "99.91%",
-    "time": 407,
-    "timeDay": 587,
-    "timeWeek": 441,
-    "timeMonth": 401,
-    "timeYear": 407,
+    "uptimeYear": "99.92%",
+    "time": 403,
+    "timeDay": 265,
+    "timeWeek": 420,
+    "timeMonth": 393,
+    "timeYear": 403,
     "dailyMinutesDown": {
       "2024-02-14": 19,
       "2024-01-22": 25
@@ -87,19 +87,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.shielsexton.com.ico",
     "slug": "shiel-sexton",
     "status": "up",
-    "uptime": "99.98%",
-    "uptimeDay": "99.35%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.98%",
-    "time": 335,
-    "timeDay": 841,
-    "timeWeek": 442,
-    "timeMonth": 329,
-    "timeYear": 335,
-    "dailyMinutesDown": {
-      "2024-02-17": 9
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 330,
+    "timeDay": 202,
+    "timeWeek": 426,
+    "timeMonth": 323,
+    "timeYear": 330,
+    "dailyMinutesDown": {}
   },
   {
     "name": "CIO Center",
@@ -112,11 +110,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.91%",
     "uptimeYear": "99.92%",
-    "time": 251,
-    "timeDay": 356,
-    "timeWeek": 267,
-    "timeMonth": 250,
-    "timeYear": 251,
+    "time": 248,
+    "timeDay": 105,
+    "timeWeek": 246,
+    "timeMonth": 245,
+    "timeYear": 248,
     "dailyMinutesDown": {
       "2024-01-25": 41
     }
@@ -132,11 +130,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 555,
-    "timeDay": 691,
-    "timeWeek": 616,
-    "timeMonth": 542,
-    "timeYear": 555,
+    "time": 557,
+    "timeDay": 659,
+    "timeWeek": 646,
+    "timeMonth": 541,
+    "timeYear": 557,
     "dailyMinutesDown": {}
   },
   {
@@ -156,7 +154,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-02-17": 1030,
+      "2024-02-18": 23,
+      "2024-02-17": 1440,
       "2024-02-16": 1440,
       "2024-02-15": 1440,
       "2024-02-14": 1440,
@@ -212,7 +211,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-02-17": 1030,
+      "2024-02-18": 23,
+      "2024-02-17": 1440,
       "2024-02-16": 1440,
       "2024-02-15": 1440,
       "2024-02-14": 1440,
@@ -262,11 +262,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 283,
-    "timeDay": 435,
-    "timeWeek": 306,
-    "timeMonth": 272,
-    "timeYear": 283,
+    "time": 281,
+    "timeDay": 204,
+    "timeWeek": 318,
+    "timeMonth": 265,
+    "timeYear": 281,
     "dailyMinutesDown": {}
   },
   {
@@ -280,11 +280,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 359,
-    "timeDay": 422,
-    "timeWeek": 385,
-    "timeMonth": 359,
-    "timeYear": 359,
+    "time": 356,
+    "timeDay": 261,
+    "timeWeek": 363,
+    "timeMonth": 356,
+    "timeYear": 356,
     "dailyMinutesDown": {}
   }
 ]
