@@ -154,7 +154,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-02-21": 21,
+      "2024-02-21": 272,
       "2024-02-20": 1440,
       "2024-02-19": 1440,
       "2024-02-18": 1440,
@@ -214,7 +214,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-02-21": 21,
+      "2024-02-21": 272,
       "2024-02-20": 1440,
       "2024-02-19": 1440,
       "2024-02-18": 1440,
@@ -280,17 +280,19 @@
     "url": "https://www.nbofi.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.nbofi.com.ico",
     "slug": "national-bank-of-indianapolis",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 353,
-    "timeDay": 293,
-    "timeWeek": 332,
-    "timeMonth": 354,
-    "timeYear": 353,
-    "dailyMinutesDown": {}
+    "time": 351,
+    "timeDay": 285,
+    "timeWeek": 325,
+    "timeMonth": 352,
+    "timeYear": 351,
+    "dailyMinutesDown": {
+      "2024-02-21": 0
+    }
   }
 ]
