@@ -45,9 +45,9 @@
     "url": "https://www.jgacounsel.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.jgacounsel.com.ico",
     "slug": "jga-counsel",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
@@ -57,6 +57,7 @@
     "timeMonth": 1213,
     "timeYear": 2347,
     "dailyMinutesDown": {
+      "2024-03-13": 0,
       "2024-02-05": 16
     }
   },
@@ -154,7 +155,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-03-13": 21,
+      "2024-03-13": 1198,
       "2024-03-12": 1440,
       "2024-03-11": 1440,
       "2024-03-10": 1440,
@@ -235,7 +236,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-03-13": 21,
+      "2024-03-13": 1198,
       "2024-03-12": 1440,
       "2024-03-11": 1440,
       "2024-03-10": 1440,
@@ -329,7 +330,7 @@
     "uptimeMonth": "99.86%",
     "uptimeYear": "99.93%",
     "time": 765,
-    "timeDay": 3609,
+    "timeDay": 339,
     "timeWeek": 2457,
     "timeMonth": 1121,
     "timeYear": 765,
