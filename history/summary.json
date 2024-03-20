@@ -124,9 +124,9 @@
     "url": "https://www.harney.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.harney.com.ico",
     "slug": "harney-and-sons",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -135,7 +135,9 @@
     "timeWeek": 518,
     "timeMonth": 553,
     "timeYear": 564,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-03-20": 0
+    }
   },
   {
     "name": "Indy Airport",
@@ -154,7 +156,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-03-20": 21,
+      "2024-03-20": 1077,
       "2024-03-19": 1440,
       "2024-03-18": 1440,
       "2024-03-17": 1440,
@@ -242,7 +244,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-03-20": 21,
+      "2024-03-20": 1077,
       "2024-03-19": 1440,
       "2024-03-18": 1440,
       "2024-03-17": 1440,
