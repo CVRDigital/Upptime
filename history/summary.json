@@ -90,19 +90,19 @@
     "url": "https://www.shielsexton.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.shielsexton.com.ico",
     "slug": "shiel-sexton",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.49%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
-    "time": 387,
-    "timeDay": 283,
-    "timeWeek": 275,
-    "timeMonth": 756,
-    "timeYear": 387,
+    "time": 386,
+    "timeDay": 265,
+    "timeWeek": 270,
+    "timeMonth": 740,
+    "timeYear": 386,
     "dailyMinutesDown": {
-      "2024-05-31": 0
+      "2024-05-31": 7
     }
   },
   {
@@ -134,7 +134,7 @@
     "uptime": "66.42%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "80.36%",
+    "uptimeMonth": "80.37%",
     "uptimeYear": "66.42%",
     "time": 557,
     "timeDay": 642,
