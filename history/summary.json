@@ -413,19 +413,19 @@
     "url": "https://allisontransmission.com",
     "icon": "https://icons.duckduckgo.com/ip3/allisontransmission.com.ico",
     "slug": "allison-transmission",
-    "status": "down",
+    "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "98.59%",
-    "uptimeWeek": "99.80%",
-    "uptimeMonth": "99.95%",
+    "uptimeDay": "98.09%",
+    "uptimeWeek": "99.73%",
+    "uptimeMonth": "99.94%",
     "uptimeYear": "99.99%",
     "time": 280,
-    "timeDay": 233,
-    "timeWeek": 255,
+    "timeDay": 237,
+    "timeWeek": 256,
     "timeMonth": 258,
     "timeYear": 280,
     "dailyMinutesDown": {
-      "2024-06-29": 20
+      "2024-06-29": 28
     }
   },
   {
